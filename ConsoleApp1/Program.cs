@@ -18,7 +18,7 @@ namespace ConsoleApp1
             int s = a * a;
                 Console.WriteLine("Площадь квадрата =" + s);
 
-
+            Console.WriteLine("hello, world!");
 
         }
     }
